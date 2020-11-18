@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2>🏆 Github Profile Trophy</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=cage1016&column=7&margin-w=15" />
+
+---
+
+- 🔭 Gopher
+- 🌱 Open source fancier
+- 🏠 Homepage at https://kaichu.io
+
+---
+
+<div>
+  <p align="left"> <a href="https://twitter.com/cagechung" target="blank">
+      <img src="https://img.shields.io/twitter/follow/cagechung?logo=twitter&style=for-the-badge" alt="cagechung" /></a>
+  </p>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=cage1016&show_icons=true&locale=en" alt="cage1016" />
+  <p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cage1016&show_icons=true&locale=en&layout=compact" alt="cage1016" />
+  </p>
+</div>

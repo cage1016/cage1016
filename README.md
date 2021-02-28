@@ -26,6 +26,11 @@ Here are some ideas to get you started:
 
 ---
 
+## 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <div>
   <p align="left"> <a href="https://twitter.com/cagechung" target="blank">
       <img src="https://img.shields.io/twitter/follow/cagechung?logo=twitter&style=for-the-badge" alt="cagechung" /></a>
@@ -36,3 +41,4 @@ Here are some ideas to get you started:
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cage1016&show_icons=true&locale=en&layout=compact" alt="cage1016" />
   </p>
 </div>
+

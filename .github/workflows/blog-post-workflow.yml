@@ -1,10 +1,8 @@
-name: Blog Posts
+name: Blog Posts List Update
 
 on:
-  # Run workflow automatically
-  schedule:
-    # Runs every hour, on the hour
-    - cron: '0 * * * *'
+  repository_dispatch:
+    types: [readme-update]
 
 jobs:
   update-readme-with-blog:

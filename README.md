@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Buildpack Tips and Tricks](https://kaichu.io/posts/buildpack-tips-and-tricks/)
 - [Cloud Run Button Tips](https://kaichu.io/posts/cloud-run-button-tips/)
 - [Postgres Transpose Rows to Columns](https://kaichu.io/posts/postgres-transpose-rows-to-columns/)
 - [Rbac1 Design](https://kaichu.io/posts/rbac1-design/)
 - [GoPherCon 2020 TW: 如何透過 Go-kit 快速搭建微服務架構應用程式實戰](https://kaichu.io/posts/gokit-engineering-operation/)
-- [About](https://kaichu.io/about/)
 <!-- BLOG-POST-LIST:END -->
 
 <div>

@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ghcr.io Pack Build](https://kaichu.io/posts/ghcr-io-pack-build/)
 - [Build Your Buildpack](https://kaichu.io/posts/build-your-buildpack/)
 - [Buildpack Tips and Tricks](https://kaichu.io/posts/buildpack-tips-and-tricks/)
 - [Cloud Run Button Tips](https://kaichu.io/posts/cloud-run-button-tips/)
 - [Postgres Transpose Rows to Columns](https://kaichu.io/posts/postgres-transpose-rows-to-columns/)
-- [Rbac1 Design](https://kaichu.io/posts/rbac1-design/)
 <!-- BLOG-POST-LIST:END -->
 
 <div>

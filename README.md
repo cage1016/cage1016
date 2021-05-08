@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Github Script Repos Sync](https://kaichu.io/posts/github-script-repos-sync/)
 - [Telepresence 2 Have a Tried](https://kaichu.io/posts/telepresence-2-have-a-tried/)
 - [Github Assets Cnb](https://kaichu.io/posts/github-assets-cnb/)
 - [ghcr.io Pack Build](https://kaichu.io/posts/ghcr-io-pack-build/)
 - [Build Your Buildpack](https://kaichu.io/posts/build-your-buildpack/)
-- [Buildpack Tips and Tricks](https://kaichu.io/posts/buildpack-tips-and-tricks/)
 <!-- BLOG-POST-LIST:END -->
 
 <div>

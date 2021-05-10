@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Github Script Repos Sync](https://kaichu.io/posts/github-script-repos-sync/)
+- [Github Script Repos and Collaborators List Sync](https://kaichu.io/posts/github-script-repos-and-collaborators-list-sync/)
 - [Telepresence 2 Have a Tried](https://kaichu.io/posts/telepresence-2-have-a-tried/)
 - [Github Assets Cnb](https://kaichu.io/posts/github-assets-cnb/)
 - [ghcr.io Pack Build](https://kaichu.io/posts/ghcr-io-pack-build/)

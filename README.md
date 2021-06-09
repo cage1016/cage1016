@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Velero 初探與實踐](https://kaichu.io/posts/velero-research-practice/)
+- [Docker Tuntap Osx WordPress](https://kaichu.io/posts/docker-tuntap-osx-wordpress/)
 - [Devcontainer Zx Pack](https://kaichu.io/posts/devcontainer-zx-pack/)
 - [Build Kuberntes GRPC Health Probe with Pack](https://kaichu.io/posts/build-kubernetes-grpc-health-probe-with-pack/)
 - [Github Script Repos and Collaborators List Sync](https://kaichu.io/posts/github-script-repos-and-collaborators-list-sync/)
-- [Telepresence 2 Have a Tried](https://kaichu.io/posts/telepresence-2-have-a-tried/)
-- [Github Assets Cnb](https://kaichu.io/posts/github-assets-cnb/)
 <!-- BLOG-POST-LIST:END -->
 
 <div>

@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 - 🔭 Gopher
 - 🌱 Open source fancier
 - 🏠 Homepage at https://kaichu.io
-
+- ⛽ Slideshare at https://www.slideshare.net/cagechung
+- 🪂 Linkedin at https://www.linkedin.com/in/kaichuchung/
 ---
 
 ## 📕 Latest Blog Posts

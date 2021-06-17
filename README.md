@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pack 0.19.0 Solved Invalid Cross Device Link at Google Cloud Build](https://kaichu.io/posts/pack-solved-invalid-cross-device-link-at-google-cloud-build/)
 - [Velero 初探簡報](https://kaichu.io/posts/velero-research-report/)
 - [Velero 初探與實踐](https://kaichu.io/posts/velero-research-practice/)
 - [Docker Tuntap Osx WordPress](https://kaichu.io/posts/docker-tuntap-osx-wordpress/)
 - [Devcontainer Zx Pack](https://kaichu.io/posts/devcontainer-zx-pack/)
-- [Build Kuberntes GRPC Health Probe with Pack](https://kaichu.io/posts/build-kubernetes-grpc-health-probe-with-pack/)
 <!-- BLOG-POST-LIST:END -->
 
 <div>

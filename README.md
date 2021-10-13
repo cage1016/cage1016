@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloud Next 21 Pre Event](https://kaichu.io/posts/cloud-next-21-pre-event/)
 - [K3s Nats tls by openssl](https://kaichu.io/posts/k3s-nats-tls-openssl/)
 - [Coscup X Ruby Conf Tw 2021 Google Cloud Buildpacks](https://kaichu.io/posts/coscup-x-ruby-conf-tw-2021-google-cloud-buildpacks/)
 - [NATS quick expose for local test](https://kaichu.io/posts/nats-quick-expose-for-local-test/)
 - [Pack 0.19.0 Solved Invalid Cross Device Link at Google Cloud Build](https://kaichu.io/posts/pack-solved-invalid-cross-device-link-at-google-cloud-build/)
-- [Velero 初探簡報](https://kaichu.io/posts/velero-research-report/)
 <!-- BLOG-POST-LIST:END -->
 
 <div>

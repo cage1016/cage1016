@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 ---
 
 - 🔭 Gopher
+- 👨‍💻 Google Cloud GDE
 - 🌱 Open source fancier
 - 🏠 Homepage at https://kaichu.io
 - ⛽ Slideshare at https://www.slideshare.net/cagechung

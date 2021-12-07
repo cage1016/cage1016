@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Alfred Change Case](https://kaichu.io/posts/alfred-change-case/)
 - [Devfest21 Taipei Artifact Registry Introduction](https://kaichu.io/posts/devfest21-taipei-artifact-registry-introduction/)
 - [Cloud Next 21 Pre Event](https://kaichu.io/posts/cloud-next-21-pre-event/)
 - [K3s Nats tls by openssl](https://kaichu.io/posts/k3s-nats-tls-openssl/)
 - [Coscup X Ruby Conf Tw 2021 Google Cloud Buildpacks](https://kaichu.io/posts/coscup-x-ruby-conf-tw-2021-google-cloud-buildpacks/)
-- [NATS quick expose for local test](https://kaichu.io/posts/nats-quick-expose-for-local-test/)
 <!-- BLOG-POST-LIST:END -->
 
 <div>

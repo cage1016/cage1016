@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy Gokit Todo to Gae With Cloud Build From Github Repo](https://kaichu.io/posts/deploy-gokit-todo-to-gae-with-cloud-build-from-github-repo/)
+- [Deploy Gokit Todo to GAE With Cloud Build From Github Repo](https://kaichu.io/posts/deploy-gokit-todo-to-gae-with-cloud-build-from-github-repo/)
 - [Wason Language Translator CLI](https://kaichu.io/posts/wason-language-translator-cli/)
 - [Taiwan Hong Kong Cloud Study Jam Guide](https://kaichu.io/posts/taiwan-hong-kong-cloud-study-jam-guide/)
 - [React Resume Site - Write Resume by Markdown](https://kaichu.io/posts/react-resume-site-write-resume-by-markdown/)

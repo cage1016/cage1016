@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloud Workstation With Hugo Env](https://kaichu.io/posts/cloud-workstation-with-hugo-env/)
 - [Alfred Open Chinese Convert](https://kaichu.io/posts/alfred-open-chinese-convert/)
 - [Deploy Gokit Todo to GAE With Cloud Build From Github Repo](https://kaichu.io/posts/deploy-gokit-todo-to-gae-with-cloud-build-from-github-repo/)
 - [Wason Language Translator CLI](https://kaichu.io/posts/wason-language-translator-cli/)
 - [Taiwan Hong Kong Cloud Study Jam Guide](https://kaichu.io/posts/taiwan-hong-kong-cloud-study-jam-guide/)
-- [React Resume Site - Write Resume by Markdown](https://kaichu.io/posts/react-resume-site-write-resume-by-markdown/)
 <!-- BLOG-POST-LIST:END -->
 
 <div>

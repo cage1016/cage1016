@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Golang Base Alfred Code Sign and Notarize](https://kaichu.io/posts/golang-base-alfred-code-sign-and-notarize/)
 - [Devfest22 Taipei Skaffold2 Deep Dive](https://kaichu.io/posts/devfest22-taipei-skaffold2-deep-dive/)
 - [Gon Sign ErrSecInternalComponent](https://kaichu.io/posts/gon-sign-errsecinternalcomponent/)
 - [Devfest22 Taichung Cloud Workstation Introduction](https://kaichu.io/posts/devfest22-taichung-cloud-workstation-introduction/)
 - [Cloud Workstation With Hugo Env](https://kaichu.io/posts/cloud-workstation-with-hugo-env/)
-- [Alfred Open Chinese Convert](https://kaichu.io/posts/alfred-open-chinese-convert/)
 <!-- BLOG-POST-LIST:END -->
 
 <div>
